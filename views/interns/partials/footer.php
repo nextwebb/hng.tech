@@ -21,7 +21,7 @@
 			<div class="main-footer-content">
 				<p class="">© <?php echo date("Y"); ?> HNG internship . All Rights Reserved. HNG Group</p>
 
-				<a href="https://twitter.com/hnginternship"><img src="../app/img/twitter.svg" alt="Find us on twitter"></a>
+				<a href="https://twitter.com/peterson_hn"><img src="../app/img/twitter.svg" alt="Find us on twitter"></a>
 			</div>
 		</div>
   </div>

@@ -38,8 +38,8 @@
           case '/become-intern' :
           require __DIR__ . '/views/become-intern.php';
           break;
-      case '/interns/template' :
-          require __DIR__ . '/views/interns/template.php';
+      case '/interns/nextwebb' :
+          require __DIR__ . '/views/interns/nextwebb.php';
           break;
       default:
           require __DIR__ . '/views/404.php';
